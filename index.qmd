@@ -1,0 +1,35 @@
+---
+title: "AWS Lightning Talk Showcase"
+subtitle: "Learn how Urban uses the cloud to support innovative research"
+format: 
+  revealjs:
+    menu: false 
+    embed-resources: true
+    theme: urbn.scss    
+    logo: images/urban-institute-logo-2.png
+    include-after-body: format-title-page.html
+title-slide-attributes: 
+    data-background-image: images/urban-institute-logo-1.png,images/aws-logo.png
+    data-background-size: 25%,20%
+    data-background-position: 3% 85%,98% 87%
+---
+
+## AWS at Urban 
+
+::: {style="font-size: 90%"}
+::: {.fragment fragment-index=1}
+* **To access the cloud right now:** 
+  * Run R, Python, or Stata code via [Tech Tools](https://tech-tools.urban.org/ec2-submission/). 
+  * Fill out the [S3 intake form](https://app.smartsheet.com/b/form/09c4375b223549deb2ee74d510c98297) to request cloud storage. 
+:::
+
+::: {.fragment fragment-index=2}
+* **For ad hoc questions:** 
+  * Join our Slack channel (#aws) or email us (AWSAdmin@urban.org). 
+:::
+
+::: {.fragment fragment-index=3}
+* **To integrate the cloud into a proposal or project:** 
+  * Use the [TECH intake form](https://app.smartsheet.com/b/form?EQBCT=5b8bcb21f39c4f19b96c448e4a6622a0). 
+:::
+:::
