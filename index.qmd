@@ -14,7 +14,19 @@ title-slide-attributes:
     data-background-position: 3% 85%,98% 87%
 ---
 
-## AWS at Urban 
+
+## Urban has... 
+
+* **50+ projects**^[Jamis project codes] that currently use AWS 
+* **40+ services** used across these projects 
+* **8+ years** of using AWS 
+* **6+ staff** members with official AWS certifications 
+
+::: {.fragment fragment-index=1}
+**<span style="color:#1696d2;">We’re excited to continue leveraging the cloud to advance research and innovation across Urban.</span>** 
+::: 
+
+## Access AWS at Urban 
 
 ::: {style="font-size: 90%"}
 ::: {.fragment fragment-index=1}

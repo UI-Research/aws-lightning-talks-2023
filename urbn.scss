@@ -179,3 +179,9 @@ body {
 .quarto-title-block  {
   top: 50px !important; 
 }
+
+// aside
+
+.reveal .slide aside, .reveal .slide div.aside {
+  color: #9d9d9d
+}

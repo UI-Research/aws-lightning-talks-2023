@@ -1,0 +1,24 @@
+---
+format: 
+  revealjs:
+    menu: false 
+    embed-resources: true
+    theme: urbn.scss    
+    logo: images/urban-institute-logo-2.png
+---
+
+## Safe Data Tech: Validation Server 
+
+* **Use Case**: Safely expand access to confidential data through a “validation server” that implements a computationally intensive differential privacy algorithm. 
+
+::: {.fragment fragment-index=1}
+* **Solution**: Built a system to run thousands of analyses in parallel and return privacy-preserving results back to the user. This system is also “serverless” – meaning we only pay for the servers while they are computing results. 
+:::
+
+## Extension: Data Collection 
+
+* **Use Case**: Every month, researchers check various websites to see if agencies published new data files. If so, they download the data and compute summary statistics.  
+
+::: {.fragment fragment-index=1}
+* **Solution**: Built a system to automatically run R scripts each month, download data files to AWS storage, and then send emails with links to the CSV files.  
+:::
