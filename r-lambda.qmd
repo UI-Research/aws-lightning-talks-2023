@@ -1,10 +1,18 @@
 ---
+title: "Bringing R to serverless computing"
+subtitle: "From the validation server to automating data collection" 
+author: "Erika Tyagi"
 format: 
   revealjs:
     menu: false 
     embed-resources: true
     theme: urbn.scss    
     logo: images/urban-institute-logo-2.png
+    include-after-body: format-title-page.html
+title-slide-attributes: 
+    data-background-image: images/urban-institute-logo-1.png,images/aws-logo.png
+    data-background-size: 25%,20%
+    data-background-position: 3% 85%,98% 87%
 ---
 
 ## Safe Data Tech: Validation Server 

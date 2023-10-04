@@ -14,7 +14,6 @@ title-slide-attributes:
     data-background-position: 3% 85%,98% 87%
 ---
 
-
 ## Urban has... 
 
 * **50+ projects**^[Jamis project codes] that currently use AWS 
